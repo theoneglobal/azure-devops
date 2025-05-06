@@ -1,6 +1,5 @@
 # Azure DevOps Terraform Repository
 
-[![Terraform Lint](https://github.com/theoneglobal/azure-devops/actions/workflows/terraform.yml/badge.svg)](https://github.com/theoneglobal/azure-devops/actions/workflows/terraform.yml)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen?logo=dependabot)](https://github.com/theoneglobal/azure-devops/security/dependabot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/theoneglobal/azure-devops/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/theoneglobal/azure-devops)](https://github.com/theoneglobal/azure-devops/issues)
